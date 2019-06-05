@@ -1,0 +1,19 @@
+{
+  "name": "akashic-hover-plugin-200-compile-error-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "",
+  "license": "UNLICENSE",
+  "dependencies": {
+    "@akashic-extension/akashic-hover-plugin": "^2.0.0"
+  },
+  "devDependencies": {
+    "@akashic/akashic-engine": "^2.4.14",
+    "@types/node": "^12.0.4",
+    "typescript": "^3.5.1"
+  }
+}
